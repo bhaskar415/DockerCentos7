@@ -1,0 +1,13 @@
+#Files
+*.rsp
+
+#Vagrant files
+.vagrant
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
